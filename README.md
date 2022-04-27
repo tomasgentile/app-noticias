@@ -3,5 +3,5 @@ Este proyecto fue realizado dentro del curso "React - La Guia completa: Hooks Co
 
 Tecnologías utilizadas:
 
-React
-Material UI
+- React
+- Material UI
